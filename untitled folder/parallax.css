@@ -1,0 +1,15 @@
+body, html {
+	height:100%;
+	margin:0;
+	font-size:16px;
+	font-family:"lato", sans-serif;
+    font-weight:400;
+    line-height:1.8em;
+    color:#666;       
+}
+
+.pimg1{
+	background-image:url('brown-concrete-india-gate-789750.jpg'); 
+	min-height:100%;
+
+}
